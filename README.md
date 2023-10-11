@@ -5,6 +5,7 @@ To get started with this API, follow the steps below.
 
 ### Prerequisites
 Before you begin, ensure you have the following prerequisites:
+- LTC 2499 analog-to-digital converter
 - B-L072Z-LRWAN1 microcontroller hardware.
 - STM32CubeIDE or similar software to configure the microcontroller.
   

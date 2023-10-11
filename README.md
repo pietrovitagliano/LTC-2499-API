@@ -22,7 +22,7 @@ Add the API files (ltc_2499_adc.h and ltc_2499_adc.c) to your project.
 Now you are ready to use the LTC 2499 API in your project.
 
 # Usage
-For a detailed demonstration of how to use the API, refer to the test.c file in this repository. It provides a practical example of how to initialize the LTC 2499, perform  readings, and decode them effectively.
+For a detailed demonstration of how to use the API, refer to the test.c file in this repository. It provides a practical example of how to initialize the LTC 2499 and use it to perform readings effectively.
 
 # License
 This project is licensed under the MIT License.

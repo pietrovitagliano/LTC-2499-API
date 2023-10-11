@@ -18,7 +18,7 @@ Include the required header files together with their source files in your proje
 - stm32l0xx_hal.h
 - b_l072z_lrwan1_bus.h
   
-Add the API files (ltc_2499_adc.h and ltc_2499_adc.c) to your project.
+Add the API files ltc_2499_adc.h and ltc_2499_adc.c to your project and include the header one where you need to use its functions.
 
 Now you are ready to use the LTC 2499 API in your project.
 
